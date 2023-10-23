@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  argocd-apps:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2023-10-23T22:10:29.362238966Z"
+    digest: 2f9ed8d9c13ba1ce9769ae3e20b003618524cd3b632ae1587afd0fa180b74f2f
+    name: argocd-apps
+    urls:
+    - https://github.com/lee5i3/helm-charts/releases/download/argocd-apps-1.0.1/argocd-apps-1.0.1.tgz
+    version: 1.0.1
+generated: "2023-10-23T22:10:29.362257566Z"
